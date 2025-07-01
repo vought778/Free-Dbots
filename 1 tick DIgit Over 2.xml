@@ -5,7 +5,7 @@
     <variable type="" id="gsQah}04l(VNTYJ`*;{Y">Initial Amount</variable>
     <variable type="" id="KaO9g@ULafq66uv?o*cA">Win Amount</variable>
     <variable type="" id="j4S-npH54+xL{.HbzV3c">Next Trade Condition</variable>
-  </variables>
+  </variables>yes
   <block type="trade" id="trade" x="-229" y="-91">
     <field name="MARKET_LIST">volidx</field>
     <field name="SUBMARKET_LIST">random_index</field>
